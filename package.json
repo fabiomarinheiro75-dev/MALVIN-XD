@@ -1,7 +1,7 @@
 {
-  "name": "malvin-xd",
+  "name": "Zaraki_ADM",
   "version": "2.1.1",
-  "description": "WhatsApp Bot by Malvin King",
+  "description": "WhatsApp Bot by @kurosaki_san",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,12 +13,12 @@
     "install:panel": "npm install --legacy-peer-deps",
     "install:force": "npm install --force",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docker:build": "docker build -t docker run -e SESSION_ID=$SESSION_ID malvinxd"
+    "docker:build": "docker build -t docker run -e SESSION_ID=$SESSION_ID zaraki"
   },
   "keywords": [
     "whatsapp-bot", "star-xd","starxd"
   ],
-  "author": "Malvin King",
+  "author": "@kurosaki_san",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
